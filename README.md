@@ -1,4 +1,4 @@
 # Twitter-Sentiment-Analysis-using-NLP-and-Machine-Learning
 This project focuses on analyzing real-time Twitter data to classify the sentiment of tweets into positive, negative, or neutral categories. It begins by collecting tweets using the Tweepy API, followed by a series of text preprocessing steps such as removing URLs, mentions, hashtags, punctuation, and stopwords. Then, Natural Language Processing (NLP) techniques are applied to convert the clean text into numerical vectors using methods like TF-IDF. Finally, machine learning models such as Logistic Regression, Naive Bayes, and Support Vector Machines (SVM) are trained and evaluated to predict the sentiment of new tweets.
 
-The project provides visualizations of sentiment distribution and showcases model performance through accuracy, precision, recall, and confusion matrices. It is an end-to-end pipeline that can be adapted for sentiment analysis in other text-based platforms.
+The project provides visualizations of sentiment distribution and showcases model performance through accuracy, precision, recall, and confusion matrices. 
